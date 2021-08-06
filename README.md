@@ -12,7 +12,8 @@
 |  8. | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algorithm.  |   |
 |  9. | Find the range of the array. Range means the difference between the maximum and minimum element in the array  |   |
 |  10. |  Move all the negative elements to one side of the array |  ⭐ |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+
+# Intermediate_Problems
+
+| S.no  | Question  | Rating  |
+|:-:|:-:|---|
