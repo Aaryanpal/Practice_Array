@@ -17,3 +17,9 @@
 
 | S.no  | Question  | Rating  |
 |:-:|:-:|---|
+|1.|Find the Union and Intersection of the two sorted arrays.||
+|2.|Write a program to cyclically rotate an array by one.| |
+|3.|You are given a list of n-1 integers and these integers are in the range of 1 to n. There are no duplicates in the list. One of the integers is missing in the list. Write an efficient code to find the missing integer.||
+|4.| Find all pairs on integer array whose sum is equal to given number| |
+|5.|Find the Duplicate in an Array||
+|6.|Sort an Array using Quicksort algorithm.||
