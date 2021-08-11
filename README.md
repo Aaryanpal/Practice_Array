@@ -23,3 +23,7 @@
 |4.| Find all pairs on integer array whose sum is equal to given number| |
 |5.|Find the Duplicate in an Array||
 |6.|Sort an Array using Quicksort algorithm.||
+|7.|Find the first repeating element in an array of integers||
+|8.|Find common elements in three sorted arrays||
+|9.|Find the first repeating element in an array of integers||
+|10.|Given an array with all distinct elements, find the largest three elements. Expected time complexity is O(n) and extra space is O(1)||
