@@ -27,3 +27,5 @@
 |8.|Find common elements in three sorted arrays||
 |9.|Find the first repeating element in an array of integers||
 |10.|Given an array with all distinct elements, find the largest three elements. Expected time complexity is O(n) and extra space is O(1)||
+|11.|Rearrange the array in alternating positive and negative items with O(1) extra space||
+|12.| ||
